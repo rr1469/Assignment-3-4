@@ -9,7 +9,7 @@
     "test:coveralls": "jest --coverage && --coverageReporters=text-lcov | coveralls",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://basnet97.github.io/soft-testing-hw3/",
+  "homepage": "https://rr1469.github.io/Assignment-3-4/",
   "keywords": [],
   "author": "",
   "license": "ISC",
