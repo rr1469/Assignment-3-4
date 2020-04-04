@@ -1,4 +1,4 @@
-function retirement()
+function retirement(age,salary,percentage,desired_savings)
   {
   var total_savings = ((percentage / 100)* salary);
   var employer_assist = (total_savings) * 0.35;
