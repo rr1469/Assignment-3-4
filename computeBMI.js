@@ -1,4 +1,4 @@
-function computeBMI()
+function computeBMI(height_feet,height_inches,weight)
   {
     var weight = weight * 703;
     var height = height_feet * 12 + height_inches;
