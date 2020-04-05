@@ -1,6 +1,6 @@
 computeBMI = require('./computeBMI');
 test("BMI index of height 5 ft and 5 in and 125 pounds equal 20.8", () => {
-    expect(computeBMI(5,5,125)).toBe(20.8);
+    expect(computeBMI(5,5,125)).toBe("20.8");
 });
 test("BMI index of height 6 ft and 2 in, and 180 pounds equal 23.1", () => {
     expect (computeBMI(6,2,180)).toBe(23.1);
